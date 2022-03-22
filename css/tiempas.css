@@ -17,7 +17,7 @@ body {
 }
 header{
     display: grid;
-    grid-template-columns: 50px 250px 200px 259.7px;
+    grid-template-columns: 50px 220px 204px 318.7px;
     margin-left: auto;
     margin-right: auto;
     width: 21cm;
@@ -31,5 +31,15 @@ header article {
 }
 section {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 6% 47% 47%;
+    background-color: rgb(255, 255, 255);
+}
+section article {
+    padding: 10px;
+}
+.cuanto {
+    margin-left: -10px;
+}
+.titulos {
+    color: rgb(125, 170, 255);
 }
